@@ -1,2 +1,2 @@
 # football_predictions
- Using Random Forests Classifier to predict Premier League game results
+ Using Random Forest Classifier to predict Premier League game results
